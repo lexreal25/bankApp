@@ -1,0 +1,15 @@
+Creat an app that will help track all by banks accounts and their details
+
+1. Creat bank
+2. Update bank
+3. detelet bank
+4. access the list of banks create
+5. add bank account number
+
+
+Bank details
+1. name
+2. branch
+3. location
+4.address
+5. phone
